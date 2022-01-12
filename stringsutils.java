@@ -1,0 +1,1 @@
+hellomthis is string file
